@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objecttypes>
+ <objecttype name="Key" color="#ffff00"/>
+ <objecttype name="Lock" color="#ffb73a"/>
+ <objecttype name="Goal" color="#00ff00"/>
+ <objecttype name="Enemy" color="#a40002"/>
+ <objecttype name="Trap" color="#0a97a4"/>
+ <objecttype name="Weapon" color="#a0a0a4"/>
+ <objecttype name="Puzzle item" color="#aaaaff"/>
+</objecttypes>
